@@ -5,7 +5,7 @@ License: GPLv3
 
 This software simply adds License text to source files. To run this application:
 
-1) Run Taj_vX.X.jar
+1) Run taj-x.x.x.jar
 2) Use the default license text that appears or paste your own. If you want to add the year last modified to the license text, be sure that your license text contains a placeholder for the year (see step 3)
 3) Enter the year placeholder. This is the text in the license text that Taj will automatically replace with the year the file was last modified. The default year placeholder is YEAR
 4) Select the folder containing the files you want to add text to. 
@@ -18,5 +18,4 @@ File types currently supported:
 .jsp
 .sql
 
-Note that if the file already contains a different license text, Taj will add the new text to the top of the file. 
-
+Note that if the file already contains a different license text, Taj will add the new text to the top of the file.
